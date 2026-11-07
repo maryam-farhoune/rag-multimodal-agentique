@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Dossiers spécifiques au projet RAG
+data/processed/
+resultats_pdf/
+chroma_pdf/
